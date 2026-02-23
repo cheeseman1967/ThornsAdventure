@@ -1,0 +1,23 @@
+Character sheet for Thorn Blackshield
+Class: Cleric (Life Domain) | Alignment: Neutral Good | Race: Hill Dwarf | Background: Acolyte
+
+<sheet>
+Stats
+Stat	Score	Modifier	Saving Throw
+STR	17	+3	+5
+DEX	12	+1	+1
+CON	16	+3	+5
+INT	10	+0	+0
+WIS	18	+4	+6
+CHA	10	+0	+0
+
+Key Stats: HP: 12, AC: 18, Speed: 25ft.
+Spells: Guidance, Sacred Flame, Cure Wounds, Bless, Shield of Faith.
+Features: Disciple of Life, Dwarven Resilience, Stonecunning.
+</sheet>
+
+Roleplaying Notes:
+• Personality: Optimistic, formal, and respectful.
+• Ideal: Faith - My deity will guide my actions.
+• Bond: I seek to preserve a sacred relic vital to my faith.
+• Flaw: I judge others and myself harshly.
